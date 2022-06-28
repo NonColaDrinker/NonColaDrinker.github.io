@@ -19,14 +19,6 @@
         <div class="logo">
             <a href="#"><img width="150px" src="images/logo.jpg"></a>
         </div>
-        <div class="navbar">
-        <ul style="word-spacing: 2%;">
-            <li><a href="#"><i>Contacts</i></a></li>
-            <li><a href="#"><i>Offres</i></a></li>
-            <li><a href="#"><i>Nos agences</i></a></li>
-            <li><a href="#"><i>Produits</i></a></li>
-            <li><a href="index.html"><i>Accueil</i></a></li>
-         </ul>
-        </div>
+       
     </body>
 </html>
