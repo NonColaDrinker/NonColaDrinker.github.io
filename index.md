@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/NonColaDrinker/NonColaDrinker.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NonColaDrinker/NonColaDrinker.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<html>
+    <head>
+        <title>TP Web - HTML - CSS (Header)</title>
+        <link rel="stylesheet" type="text/css" href="styles.css">
+        <link rel="icon" type="images/png" href="/sus/images/logo.png">
+    </head>
+    <body>
+        <script src="ja.js" type="text/javascript"></script>
+        <div class="social_icon" style="width: 100%;">
+            <a href="https://facebook.com" target="_blank"><img src="images/icon1.png"></a>
+            <a href="https://twitter.com" target="_blank"><img src="images/icon2.png"></a>
+            <a href="https://instagram.com" target="_blank"><img src="images/icon3.png"></a>
+            <a href="https://linkedin.com" target="_blank"><img src="images/icon4.png"></a>
+        </div>
+        <div class="cls">
+           <a href="#" class="btn btn-left"><span class="col" style="word-spacing: 20px; ">Login </span>  </a>
+            <a href="#" class="btn"><span class="col" >  Register</span></a>
+        </div>
+        <div class="logo">
+            <a href="#"><img width="150px" src="images/logo.jpg"></a>
+        </div>
+        <div class="navbar">
+        <ul style="word-spacing: 2%;">
+            <li><a href="#"><i>Contacts</i></a></li>
+            <li><a href="#"><i>Offres</i></a></li>
+            <li><a href="#"><i>Nos agences</i></a></li>
+            <li><a href="#"><i>Produits</i></a></li>
+            <li><a href="index.html"><i>Accueil</i></a></li>
+         </ul>
+        </div>
+    </body>
+</html>
